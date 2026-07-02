@@ -1,0 +1,106 @@
+body{
+    font-family: constantia;
+    background: linear-gradient(135deg,#599aee,#cfc07c);
+    background-image: url("359 Sem Título_20260630015643.jpg.jpeg");
+    border-radius: 8px;
+    border: 4px solid black;
+    margin: 20px;
+    text-align: left 20px;
+    backdrop-filter: blur(5px);
+}
+
+nav{
+    background-color: #c9b8ad;
+    padding: 15px;
+    text-align: center;
+    
+}
+
+
+nav a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin: 0 20px;
+    text-align: center;
+    font-family: Gabriola;
+    font-weight: bold;
+    transition: 0.3s;
+    font-size: 30px;
+    
+}
+
+
+nav a:hover{
+    color: #fdfdfd;
+    
+}
+
+h1{
+    font-family: constantia;
+    background: linear-gradient(135deg,#c9b8ad,#94a0ce);
+    text-align: center;
+    margin: 200px 120px;
+    border: 2px solid black;
+    border-radius: 7px;
+    
+}
+
+.habilidades{
+    font-family: constantia;
+    font-size: 16px;
+    background: linear-gradient(135deg,#c9b8ad);
+    border-radius: 8px;
+    border: 2px solid black;
+    margin: 20px;
+    text-align: left 20px;
+}
+
+.contato{
+    font-family: constantia;
+    font-size: 18px;
+    background: linear-gradient(135deg,#c9b8ad);
+    border-radius: 8px;
+    border: 4px solid black;
+    margin: 20px;
+    text-align: center;
+}
+
+.experiencia{
+    font-family: constantia;
+    font-size: 18px;
+    background: linear-gradient(135deg,#c9b8ad);
+    border-radius: 8px;
+    border: 4px solid black;
+    margin: 20px;
+    text-align: left 20px;
+}
+
+.experiencia a:hover{
+    color: #000000;
+}
+
+.experiencia a{
+    margin: 0 20px;
+    text-align: center;
+    font-family: constantia;
+    font-weight: bold;
+    transition: 0.3s;
+    font-size: 18px;
+}
+.apresentacao{
+    font-family: constantia;
+    font-size: 18px;
+    background: linear-gradient(135deg,#c9b8ad);
+    border-radius: 8px;
+    border: 4px solid black;
+    margin: 20px;
+    text-align: center;
+}
+
+
+
+button{
+    font-family: constantia;
+    border-radius: 8px;
+
+}
